@@ -1,0 +1,24 @@
+{
+  "name": "petboutiquefirestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "petBoutique.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyALaBelle/petBoutique-firestore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyALaBelle/petBoutique-firestore/issues"
+  },
+  "homepage": "https://github.com/EmilyALaBelle/petBoutique-firestore#readme",
+  "dependencies": {
+    "firebase-admin": "^11.1.0"
+  }
+}
